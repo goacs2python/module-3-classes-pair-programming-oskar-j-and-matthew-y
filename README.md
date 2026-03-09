@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=22988142&assignment_repo_type=AssignmentRepo)
 # Module 3 Classes Pair Programming
 
 Please complete one problem from the Module 3 Classes Problem Set with a partner. The other problem will be completed on your own.
